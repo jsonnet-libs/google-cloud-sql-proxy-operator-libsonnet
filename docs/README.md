@@ -2,4 +2,4 @@
 
 This library is generated with [`k8s`](https://github.com/jsonnet-libs/k8s).
 
-[Docs](https://jsonnet-libs.github.io/google-cloud-sql-proxy-operator-libsonnet)
+- [0.5](0.5/README.md)
