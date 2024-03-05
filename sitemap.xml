@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/google-cloud-sql-proxy-operator-libsonnet/</loc>
-         <lastmod>2024-02-09</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/google-cloud-sql-proxy-operator-libsonnet/0.5/</loc>
-         <lastmod>2024-02-09</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/google-cloud-sql-proxy-operator-libsonnet/0.5/cloudsql/</loc>
-         <lastmod>2024-02-09</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/google-cloud-sql-proxy-operator-libsonnet/0.5/cloudsql/v1/</loc>
-         <lastmod>2024-02-09</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/google-cloud-sql-proxy-operator-libsonnet/0.5/cloudsql/v1/authProxyWorkload/</loc>
-         <lastmod>2024-02-09</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/google-cloud-sql-proxy-operator-libsonnet/1.4/</loc>
-         <lastmod>2024-02-09</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/google-cloud-sql-proxy-operator-libsonnet/1.4/cloudsql/</loc>
-         <lastmod>2024-02-09</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/google-cloud-sql-proxy-operator-libsonnet/1.4/cloudsql/v1/</loc>
-         <lastmod>2024-02-09</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/google-cloud-sql-proxy-operator-libsonnet/1.4/cloudsql/v1/authProxyWorkload/</loc>
-         <lastmod>2024-02-09</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
